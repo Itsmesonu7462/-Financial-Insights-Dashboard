@@ -1,6 +1,4 @@
-Here’s a well-structured **README.md** file for your project:
 
----
 
 # AI-Powered Financial Dashboard
 
